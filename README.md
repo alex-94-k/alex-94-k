@@ -1,16 +1,23 @@
-## Hi there 👋
+Greetings 👋
 
-<!--
-**alex-94-k/alex-94-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate front-end developer
 
-Here are some ideas to get you started:
+I thrive on creating engaging and interactive web interfaces that deliver exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here are the technologies that I'm using in my work** 👇
+
+HTML: ⭐️⭐️⭐️⭐️⭐️ 
+
+CSS: ⭐️⭐️⭐️⭐️ 
+
+SASS/SCSS: ⭐️⭐️⭐️⭐️ 
+
+Bootstrap: ⭐️⭐️⭐️⭐️ 
+
+JS: ⭐️⭐️
+
+**Here are my contacts** 👇
+
+LinkedIn: https://www.linkedin.com/in/alexander-kasper/ 
+
+Email: al941994.94@gmail.com
